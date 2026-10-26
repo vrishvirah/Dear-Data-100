@@ -1,1 +1,21 @@
-plan 
+# Dear Data 100 - Plan
+
+## Dataset
+- 147 workouts tracked in Hevy
+- Exported as CSV (date, exercise, sets, reps, weight)
+- Contains anomalies (missed days, typos, outliers)
+
+## Goal
+Turn the data into clear visuals using Java.
+
+## Steps
+1. Export Hevy data to CSV
+2. Clean data (find and note anomalies)
+3. Write Java code to read the CSV
+4. Pick what to show (volume, PRs, frequency)
+5. Build the visual output
+6. Write up findings and reflection
+
+## Questions
+- Which anomalies matter?
+- What's the best way to show progress over time?

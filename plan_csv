@@ -1,0 +1,60 @@
+# 🏋️ Dear Data 100: Data Summary
+
+## 🔵 Overview
+- Workouts: 147
+- Sets: 3,086
+- Exercises: 67
+- Dates: 10 Mar 2025 to 11 Oct 2026 (580 days)
+- Sessions per week: 1.8
+- Sets per workout: 21
+- Average workout: 108 mins
+
+## 🟢 Totals
+- Volume: 956,874 kg (no warmups)
+- Reps: 19,907
+- Treadmill: 52.3 km
+
+## 🟡 Consistency
+- Busiest month: Apr 2026 (13 workouts)
+- Quietest month: Aug 2025 (1 workout)
+- Longest gap: 30 days
+- Usual start time: 3pm
+
+## 🟣 Workouts by Day
+- Tuesday: 33
+- Thursday: 31
+- Saturday: 22
+- Sunday: 22
+- Friday: 15
+- Monday: 14
+- Wednesday: 10
+
+## 🟠 Most Done Exercises (sets)
+1. Triceps Pushdown: 235
+2. Preacher Curl: 194
+3. Seated Row: 176
+4. Lat Pulldown: 150
+5. Single Arm Lateral Raise: 148
+6. Hip Abduction: 124
+7. Chest Fly: 119
+8. Chest Press: 116
+9. Seated Shoulder Press: 109
+10. Deadlift: 102
+
+## 📈 Progress (start to best)
+- Lat Pulldown: 40 to 79 kg
+- Seated Row: 32 to 80 kg
+- Chest Press: 39 to 61.5 kg
+- Deadlift: 70 to 120 kg
+- Preacher Curl: 23 to 36 kg
+
+## 🔴 Anomalies
+- Missing weight: 164 sets (bodyweight and cardio)
+- Missing reps: 74 sets (treadmill and stairs)
+- Warmup sets: 43 (exclude from volume)
+- Rep outlier: 63 reps, Seated Row, 25 Nov 2025
+- Shortest workout: 27 mins (likely a test)
+- RPE logged: only 76 sets
+- Messy titles: "1", "2", "3" plus named splits
+- Empty columns: superset_id, description
+
